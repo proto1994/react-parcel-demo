@@ -25,6 +25,8 @@ This will compile your JS and copy your `index.html` to the `dist` folder which 
 
 > Note: [There is a bug in Parcel right now messing up minified builds with uglifyjs](https://github.com/parcel-bundler/parcel/issues/8)
 
+## Reference resources
 
+https://github.com/jaredpalmer/react-parcel-example
 
 
